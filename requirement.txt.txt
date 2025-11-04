@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pydantic
-requests
-spacy
-nltk
-python-dotenv
-jinja2
-gunicorn
